@@ -9,5 +9,4 @@ public class HamburgerChef implements Chef {
 	public AbstractVoedsel maakVoedsel() {
 		return new Hamburger();
 	}
-
 }
